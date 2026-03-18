@@ -1,5 +1,19 @@
+/*
+Colors
+#BEE9E8
+#62B6CB
+#1B4965
+#CAE9FF
+#5FA8D3
+*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body{
-    background-color: lightblue;
+    background-color: #62B6CB;
 }
 ul{
     display: grid;
