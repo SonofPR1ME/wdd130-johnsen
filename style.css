@@ -57,6 +57,8 @@ header{
     margin-right: auto;
 }
 
+/*Past this point is Main Page CSS*/
+
 .slideshow-container {
   max-width: 1000px;
   position: relative;
@@ -143,6 +145,7 @@ header{
 }
 
 /* This is the History Page CSS */
+
 #history-content {
     max-width: 1200px;
     margin: 0 auto;
