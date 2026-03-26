@@ -60,7 +60,7 @@ header{
 /*Past this point is Main Page CSS*/
 
 .slideshow-container {
-  max-width: 1000px;
+  max-width: 50%;
   position: relative;
   margin: auto;
 }
@@ -89,6 +89,11 @@ header{
 /* Position the "next button" to the right */
 .next {
   right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+.prev {
+  left: 0;
   border-radius: 3px 0 0 3px;
 }
 
